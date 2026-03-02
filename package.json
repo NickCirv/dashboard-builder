@@ -1,0 +1,15 @@
+{
+  "name": "dashboard-builder",
+  "version": "1.0.0",
+  "description": "Describe a terminal dashboard in plain English. Get it running instantly. CPU, git, todos, timers — all in one view.",
+  "type": "module",
+  "bin": { "dashboard-builder": "./index.js" },
+  "engines": { "node": ">=18" },
+  "keywords": ["terminal", "dashboard", "cli", "monitoring", "ai", "ascii"],
+  "author": "NickCirv",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/dashboard-builder.git"
+  }
+}
