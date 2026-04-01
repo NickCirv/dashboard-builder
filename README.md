@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # dashboard-builder
 
 Describe a terminal dashboard in plain English. Get it running instantly.
